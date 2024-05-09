@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddpdhafqb8nco"
-path="res://.godot/imported/Cool Terreria.apple-touch-icon.png-b48fc0131a21afe76969dba68d953fbd.ctex"
+path="res://.godot/imported/Cool Terreria.apple-touch-icon.png-b84c3e1d03e55fc150bc248aa2204a94.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/web/Cool Terreria.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Cool Terreria.apple-touch-icon.png-b48fc0131a21afe76969dba68d953fbd.ctex"]
+source_file="res://builds/cool-terreria/Cool Terreria.apple-touch-icon.png"
+dest_files=["res://.godot/imported/Cool Terreria.apple-touch-icon.png-b84c3e1d03e55fc150bc248aa2204a94.ctex"]
 
 [params]
 
